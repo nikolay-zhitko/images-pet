@@ -1,0 +1,452 @@
+[
+    {
+      "id": "1",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/1.jpg?raw=true",
+      "model": "Xiaomi Redmi Note 10 Pro",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "349",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "2",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/2.jpg?raw=true",
+      "model": "Honor 70",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "499",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "3",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/3.jpg?raw=true",
+      "model": "HONOR X6",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "199",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "4",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/4.jpg?raw=true",
+      "model": "Xiaomi Redmi 9A",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "149",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "5",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/5.jpg?raw=true",
+      "model": "Samsung Galaxy A13",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "199",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "6",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/6.jpg?raw=true",
+      "model": "Samsung Galaxy M32",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "299",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "7",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/7.jpg?raw=true",
+      "model": "HONOR X8",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "349",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "8",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/8.jpg?raw=true",
+      "model": "Samsung Galaxy X",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "999",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "9",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/9.jpg?raw=true",
+      "model": "Xiaomi Redmi Note 11",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "399",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "10",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/10.jpg?raw=true",
+      "model": "HONOR X7",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "199",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "11",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/11.jpg?raw=true",
+      "model": "IPhone 11",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "999",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "12",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/12.jpg?raw=true",
+      "model": "IPhone 12",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "1399",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "13",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/13.jpg?raw=true",
+      "model": "Huawei P50 Pro",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "299",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "14",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/14.jpg?raw=true",
+      "model": "Xiaomi Redmi 10",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "199",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "15",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/15.jpg?raw=true",
+      "model": "Samsung Galaxy A13",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "699",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "16",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/16.jpg?raw=true",
+      "model": "Xiaomi 10 Lite",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "279",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "17",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/17.jpg?raw=true",
+      "model": "Xiaomi 11 Lite",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "469",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "18",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/18.jpg?raw=true",
+      "model": "Samsung Galaxy S14",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "999",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "19",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/19.jpg?raw=true",
+      "model": "HONOR DI Max",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "399",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "20",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/20.jpg?raw=true",
+      "model": "Huawei Buble 3",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "799",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "21",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/21.jpg?raw=true",
+      "model": "IPhone 10",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "799",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "22",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/22.jpg?raw=true",
+      "model": "HONOR X8",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "199",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "23",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/23.jpg?raw=true",
+      "model": "Xiaomi Mi 6",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "349",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "24",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/24.jpg?raw=true",
+      "model": "IPhone 13 Pro Max",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "699",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "25",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/25.jpg?raw=true",
+      "model": "Xiaome Redmi 5 S",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "899",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "26",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/26.jpg?raw=true",
+      "model": "Samsung Galaxy S11",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "899",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "27",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/27.jpg?raw=true",
+      "model": "IPhone 8",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "599",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "28",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/28.jpg?raw=true",
+      "model": "IPhone 15",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "3999",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "29",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/29.jpg?raw=true",
+      "model": "Xiaomi Redmi 5 A Lite",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "549",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "30",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/30.jpg?raw=true",
+      "model": "ZTE 1",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "199",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "31",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/31.jpg?raw=true",
+      "model": "Firus A4",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "399",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "32",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/32.jpg?raw=true",
+      "model": "Firus A5",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "699",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "33",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/33.jpg?raw=true",
+      "model": "Jesus X33",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "3333",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "34",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/34.jpg?raw=true",
+      "model": "Ihone 16 Pro Max",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "2999",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "35",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/35.jpg?raw=true",
+      "model": "Huawei Wei 30",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "599",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "36",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/36.jpg?raw=true",
+      "model": "Xiaomi Mi 8",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "499",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "37",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/37.jpg?raw=true",
+      "model": "Xiaomi Mi 8 Lite",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "399",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "38",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/38.jpg?raw=true",
+      "model": "Samsung 11 Nano",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "799",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "39",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/39.jpg?raw=true",
+      "model": "Infinix Note 15",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "199",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "40",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/40.jpg?raw=true",
+      "model": "ZTE Blade A30",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "499",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "41",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/41.jpg?raw=true",
+      "model": "ZTE Blade A31",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "399",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "42",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/42.jpg?raw=true",
+      "model": "HONOR X20",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "999",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "43",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/43.jpg?raw=true",
+      "model": "Realme 10",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "199",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "44",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/44.jpg?raw=true",
+      "model": "Vivo 15",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "799",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "45",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/45.jpg?raw=true",
+      "model": "HONOR X40",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "199",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "46",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/46.jpg?raw=true",
+      "model": "Xiaomi Poco X4",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "399",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "47",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/47.jpg?raw=true",
+      "model": "Realme C30",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "199",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "48",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/48.jpg?raw=true",
+      "model": "Samsung Galaxy S100",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "1999",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "49",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/49.jpg?raw=true",
+      "model": "Samsung Galaxy S200",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "2999",
+      "isFavorite": false,
+      "isAdded": false
+    },
+    {
+      "id": "50",
+      "url": "https://github.com/nikolay-zhitko/images-pet/blob/main/50.jpg?raw=true",
+      "model": "Samsung Galaxy X500",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
+      "price": "599",
+      "isFavorite": false,
+      "isAdded": false
+    }
+  ]
