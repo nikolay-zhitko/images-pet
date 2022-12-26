@@ -6,7 +6,7 @@
       "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio ipsam dolor veritatis eaque, assumenda dicta. Consequatur placeat autem ipsum odit sint? Vero incidunt repudiandae expedita vel voluptatem iure odit? Maiores.",
       "price": "349",
       "isFavorite": false,
-      "amountInCart": 0
+      "amountInCart": 1
     },
     {
       "id": "2",
